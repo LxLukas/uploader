@@ -1,3 +1,3 @@
 # JS UPLOADER COMPONENT
 
-## Desing&Code by Lukas
+## Design&Code by Lukas
